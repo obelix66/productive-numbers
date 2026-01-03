@@ -1,0 +1,49 @@
+# Rust
+/target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# State files
+state.json
+state.json.tmp
+
+# Output files
+found.txt
+splits_analysis.csv
+
+# Analysis results
+analysis_results_*/
+*.png
+*.svg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Benchmark results
+benchmark_results.txt
+flamegraph.svg
+perf.data
+perf.data.old
