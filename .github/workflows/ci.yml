@@ -105,9 +105,6 @@ jobs:
       
       - name: Run tests
         run: cargo test --verbose
-      
-      - name: Run doc tests
-        run: cargo test --doc --verbose
 
   # ============================================================================
   # Job 4: Release Build Test
